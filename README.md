@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sunnygupta2016.github.io/SunnyGupta-Developer-/](https://sunnygupta2016.github.io/SunnyGupta-Developer-/)
 
-- 📫 How to reach me **gupta.sunny2016@gail.com**
+- 📫 How to reach me **gupta.sunny2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
